@@ -1,0 +1,7 @@
+# アプリが必要とするパッケージ
+flask
+requests>=2.31,<3.0
+sampleproject
+
+# constraints.txt を参照する場合
+-c constraints.txt
