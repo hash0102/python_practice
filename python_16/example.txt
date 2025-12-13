@@ -1,0 +1,7 @@
+このドキュメントは、Pythonの簡単な関数 factorial の使い方を示しています。
+
+>>> from math import factorial
+>>> factorial(5)
+120
+>>> factorial(0)
+1
