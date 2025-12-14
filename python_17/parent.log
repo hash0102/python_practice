@@ -1,0 +1,2 @@
+2025-12-14 23:22:02,039 INFO my_app main.py からのログ
+2025-12-14 23:22:02,039 INFO my_app.sub_module sub_module.py からのログ
